@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>holy-see</territory-id>
     <chiefs>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1848-08-19</date>
                 <note/>
             </arrived>
             <started>
-                <date>1848-08-19</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -39,11 +39,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1849-11-19</date>
                 <note/>
             </arrived>
             <started>
-                <date>1849-11-19</date>
+                <date/>
                 <note/>
             </started>
             <ended>

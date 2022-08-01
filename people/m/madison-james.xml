@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <person>
     <id>madison-james</id>
     <persName>
         <surname>Madison</surname>
         <forename>James</forename>
+        <altname>James Madison</altname>
     </persName>
     <birth>1751</birth>
     <death>1836</death>

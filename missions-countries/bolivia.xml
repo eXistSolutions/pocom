@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>bolivia</territory-id>
     <chiefs>
@@ -12,12 +12,12 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
                 <date>1849-01-03</date>
                 <note>Officially recognized on.</note>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
             </started>
             <ended>
                 <date>1849-05-04</date>
@@ -39,11 +39,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1850-07-03</date>
                 <note/>
             </arrived>
             <started>
-                <date>1850-07-03</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -67,11 +67,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1852-12-18</date>
                 <note/>
             </arrived>
             <started>
-                <date>1852-12-18</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -95,11 +95,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1854-02-23</date>
                 <note/>
             </arrived>
             <started>
-                <date>1854-02-23</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -741,7 +741,7 @@
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-014</last-modified-date>
+            <last-modified-date>2016-01-14</last-modified-date>
         </chief>
         <chief>
             <id>bo-1919-magi-01</id>
@@ -1381,11 +1381,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1980-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1980-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1633,8 +1633,7 @@
             </started>
             <ended>
                 <date>2008-09-14</date>
-                <note>Declared <hi rend="italic">persona non grata</hi> by the Government of
-                    Bolivia; left post,</note>
+                <note/>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>
@@ -1652,11 +1651,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2009-08</date>
                 <note/>
             </arrived>
             <started>
-                <date>2009-08</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1679,11 +1678,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2012-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>2012-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1706,11 +1705,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2014-06-08</date>
                 <note/>
             </arrived>
             <started>
-                <date>2014-06-08</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1733,11 +1732,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2017-12-20</date>
                 <note/>
             </arrived>
             <started>
-                <date>2017-12-20</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1760,11 +1759,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2020-08-26</date>
                 <note/>
             </arrived>
             <started>
-                <date>2020-08-26</date>
+                <date/>
                 <note/>
             </started>
             <ended>

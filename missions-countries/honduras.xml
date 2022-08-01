@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>honduras</territory-id>
     <chiefs>
@@ -377,7 +377,7 @@
             </started>
             <ended>
                 <date>1907-02-27</date>
-                <note>Transmitted recall by note on or shortly before </note>
+                <note>Transmitted recall by note on or shortly before</note>
             </ended>
             <note>Commissioned during a recess of the Senate; recommissioned on December 8, 1902
                 after confirmation.</note>
@@ -1371,11 +1371,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2017-06-11</date>
                 <note/>
             </arrived>
             <started>
-                <date>2017-06-11</date>
+                <date/>
                 <note/>
             </started>
             <ended>

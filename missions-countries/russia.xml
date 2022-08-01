@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>russia</territory-id>
     <chiefs>
@@ -174,11 +174,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1836-09-02</date>
                 <note/>
             </arrived>
             <started>
-                <date>1836-09-02</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1534,11 +1534,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1973-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1973-01</date>
+                <date/>
                 <note/>
             </started>
             <ended>

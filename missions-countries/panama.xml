@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>panama</territory-id>
     <chiefs>
@@ -642,11 +642,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1964-04-03</date>
                 <note/>
             </arrived>
             <started>
-                <date>1964-04-03</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -886,11 +886,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1994-02</date>
                 <note/>
             </arrived>
             <started>
-                <date>1994-02</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1285,6 +1285,33 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
+        </chief>
+        <chief>
+            <id>pa--beth-01</id>
+            <person-id>bethel-erik-paul</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>panama</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of May 4, 2020 returned to the president on January 3, 2021.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </other-nominees>
 </country-mission>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>mexico</territory-id>
     <chiefs>
@@ -39,11 +39,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1830-01-29</date>
                 <note/>
             </arrived>
             <started>
-                <date>1830-01-29</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -68,11 +68,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1836-05-11</date>
                 <note/>
             </arrived>
             <started>
-                <date>1836-05-11</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -396,11 +396,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1864-04</date>
                 <note/>
             </arrived>
             <started>
-                <date>1864-04</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -423,11 +423,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1866-04</date>
                 <note/>
             </arrived>
             <started>
-                <date>1866-04</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -943,11 +943,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1919-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1919-01</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1513,11 +1513,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1997-06</date>
                 <note/>
             </arrived>
             <started>
-                <date>1997-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1683,14 +1683,41 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-08-12</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-08-18</last-modified-date>
+            <last-modified-date>2021-02-17</last-modified-date>
+        </chief>
+        <chief>
+            <id>mx-2021-sala-01</id>
+            <person-id>salazar-kenneth-lee</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>mexico</contemporary-territory-id>
+            <appointed>
+                <date>2021-08-11</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date>2021-09-14</date>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-09-23</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </chiefs>
     <other-nominees>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>andorra</territory-id>
     <chiefs>
@@ -165,14 +165,41 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note>Departed Madrid on</note>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-16</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-16</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
+        </chief>
+        <chief>
+            <id>ad-2021-reyn-01</id>
+            <person-id>reynoso-julissa</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>andorra</contemporary-territory-id>
+            <appointed>
+                <date>2021-12-20</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2022-01-27</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </chiefs>
     <other-nominees/>

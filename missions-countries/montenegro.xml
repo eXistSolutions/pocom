@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>montenegro</territory-id>
     <chiefs>
@@ -178,11 +178,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2006-10-05</date>
                 <note/>
             </arrived>
             <started>
-                <date>2006-10-05</date>
+                <date/>
                 <note/>
             </started>
             <ended>

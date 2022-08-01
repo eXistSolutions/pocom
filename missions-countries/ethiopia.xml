@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>ethiopia</territory-id>
     <chiefs>
@@ -474,11 +474,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1980-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1980-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -501,11 +501,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1982-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1982-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -528,11 +528,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1985-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1985-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -555,11 +555,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1988-08</date>
                 <note/>
             </arrived>
             <started>
-                <date>1988-08</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -582,11 +582,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1991-06</date>
                 <note/>
             </arrived>
             <started>
-                <date>1991-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -833,14 +833,41 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-30</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-21</last-modified-date>
+            <last-modified-date>2021-02-17</last-modified-date>
+        </chief>
+        <chief>
+            <id>et-2021-pasi-01</id>
+            <person-id>pasi-geeta</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>ethiopia</contemporary-territory-id>
+            <appointed>
+                <date>2021-01-05</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date>2021-02-18</date>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-03-14</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2021-05-17</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>

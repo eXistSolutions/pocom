@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>liberia</territory-id>
     <chiefs>
@@ -1049,11 +1049,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1992-09</date>
                 <note/>
             </arrived>
             <started>
-                <date>1992-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1076,11 +1076,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1995-11</date>
                 <note/>
             </arrived>
             <started>
-                <date>1995-11</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1254,6 +1254,33 @@
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-03-24</last-modified-date>
+        </chief>
+        <chief>
+            <id>lr-2020-mcca-01</id>
+            <person-id>mccarthy-michael-a</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>liberia</contemporary-territory-id>
+            <appointed>
+                <date>2020-12-01</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date>2021-01-06</date>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2020-12-16</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2021-01-14</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>

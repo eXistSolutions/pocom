@@ -1,7 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>tonga</territory-id>
     <chiefs>
+        <chief>
+            <id>to-1972-wood-01</id>
+            <person-id>wood-chalmers-benedict</person-id>
+            <role-title-id>charge-daffaires-ad-interim</role-title-id>
+            <contemporary-territory-id>tonga</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <arrived>
+                <date>1972-11</date>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date>1974-04</date>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-24</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-24</last-modified-date>
+        </chief>
         <chief>
             <id>to-1972-fran-01</id>
             <person-id>franzheim-kenneth</person-id>
@@ -28,33 +55,6 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-23</last-modified-date>
-        </chief>
-        <chief>
-            <id>to-1972-wood-01</id>
-            <person-id>wood-chalmers-benedict</person-id>
-            <role-title-id>charge-daffaires-ad-interim</role-title-id>
-            <contemporary-territory-id>tonga</contemporary-territory-id>
-            <appointed>
-                <date/>
-                <note/>
-            </appointed>
-            <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
-                <date>1972-11</date>
-                <note/>
-            </started>
-            <ended>
-                <date>1974-04</date>
-                <note/>
-            </ended>
-            <note/>
-            <created-by>marrsaw</created-by>
-            <created-date>2015-11-24</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-11-24</last-modified-date>
         </chief>
         <chief>
             <id>to-1974-seld-01</id>
@@ -255,11 +255,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1993-03</date>
                 <note/>
             </arrived>
             <started>
-                <date>1993-03</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -336,11 +336,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2001-06</date>
                 <note/>
             </arrived>
             <started>
-                <date>2001-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -498,11 +498,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2018-02-25</date>
                 <note/>
             </arrived>
             <started>
-                <date>2018-02-25</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -533,14 +533,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-11-05</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-12-19</last-modified-date>
+            <last-modified-date>2021-02-17</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>

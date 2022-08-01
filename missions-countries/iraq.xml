@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>iraq</territory-id>
     <chiefs>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1931-06-18</date>
                 <note/>
             </arrived>
             <started>
-                <date>1931-06-18</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -333,14 +333,6 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
-        <mission-note>
-            <text>On October 1, 1972, the United States established an Interests Section in the
-                Belgian Embassy.</text>
-            <created-by>marrsaw</created-by>
-            <created-date>2016-01-12</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-12</last-modified-date>
-        </mission-note>
         <chief>
             <id>iq-1972-lowr-01</id>
             <person-id>lowrie-arthur-l</person-id>
@@ -368,6 +360,14 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-12</last-modified-date>
         </chief>
+        <mission-note>
+            <text>On October 1, 1972, the United States established an Interests Section in the
+                Belgian Embassy.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-12</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-12</last-modified-date>
+        </mission-note>
         <chief>
             <id>iq-1975-wile-01</id>
             <person-id>wiley-marshall-wayne</person-id>
@@ -561,11 +561,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1990-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1990-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>

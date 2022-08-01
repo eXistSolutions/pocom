@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>nicaragua</territory-id>
     <chiefs>
@@ -17,7 +17,7 @@
             </arrived>
             <started>
                 <date>1852-02-18</date>
-                <note>Officailly recognized on</note>
+                <note>Officially recognized on</note>
             </started>
             <ended>
                 <date>1853-06-01</date>
@@ -1265,11 +1265,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1988-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1988-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1319,11 +1319,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1992-03</date>
                 <note/>
             </arrived>
             <started>
-                <date>1992-03</date>
+                <date/>
                 <note/>
             </started>
             <ended>

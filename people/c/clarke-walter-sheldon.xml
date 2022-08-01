@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <person>
     <id>clarke-walter-sheldon</id>
     <persName>
@@ -7,7 +7,7 @@
         <altname>Walter S. Clarke</altname>
     </persName>
     <birth>1934</birth>
-    <death/>
+    <death>2019</death>
     <career-type>career</career-type>
     <residence>
         <state-id>mi</state-id>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>singapore</territory-id>
     <chiefs>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1966-04-04</date>
                 <note/>
             </arrived>
             <started>
-                <date>1966-04-04</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -309,11 +309,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1993-06</date>
                 <note/>
             </arrived>
             <started>
-                <date>1993-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -498,11 +498,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2017-01-20</date>
                 <note/>
             </arrived>
             <started>
-                <date>2017-01-20</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -514,6 +514,33 @@
             <created-date>2019-05-23</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-07-26</last-modified-date>
+        </chief>
+        <chief>
+            <id>sg-2021-kapl-01</id>
+            <person-id>kaplan-jonathan-eric</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>singapore</contemporary-territory-id>
+            <appointed>
+                <date>2021-11-19</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-12-08</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </chiefs>
     <other-nominees>
@@ -538,12 +565,38 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Nominated June 15, 2017 and renominated January 8, 2018. Nomination withdrawn by
-                the president on February 5, 2018.</note>
+            <note>Nominated June 15, 2017 and renominated January 8, 2018. Nomination withdrawn by the president on February 5, 2018.</note>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-23</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-23</last-modified-date>
+        </chief>
+        <chief>
+            <id>sg--thor-01</id>
+            <person-id>thornhill-barbara-hale</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>singapore</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of October 15, 2019 and renominations of March 2, 2020 and January 6, 2021 withdrawn by the president on February 4, 2021.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </other-nominees>
 </country-mission>

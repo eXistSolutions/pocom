@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>latvia</territory-id>
     <chiefs>
@@ -185,11 +185,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1991-10-02</date>
                 <note/>
             </arrived>
             <started>
-                <date>1991-10-02</date>
+                <date/>
                 <note/>
             </started>
             <ended>

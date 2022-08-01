@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person>
+    <id>stanley-marc-r</id>
+    <persName>
+        <surname>Stanley</surname>
+        <forename>Marc R.</forename>
+    </persName>
+    <birth/>
+    <death/>
+    <career-type>non-career</career-type>
+    <residence>
+        <state-id>tx</state-id>
+    </residence>
+    <created-by>doa-exist-temp</created-by>
+    <created-date>2022-01-27</created-date>
+    <last-modified-by>doa-exist-temp</last-modified-by>
+    <last-modified-date>2022-07-13</last-modified-date>
+</person>

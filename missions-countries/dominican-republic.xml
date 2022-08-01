@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>dominican-republic</territory-id>
     <chiefs>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1884-03-26</date>
                 <note/>
             </arrived>
             <started>
-                <date>1884-03-26</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -40,11 +40,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1885-03-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1885-03-01</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -72,11 +72,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1890-01-25</date>
                 <note/>
             </arrived>
             <started>
-                <date>1890-01-25</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -794,11 +794,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1962-01-06</date>
                 <note/>
             </arrived>
             <started>
-                <date>1962-01-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1200,11 +1200,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2009-08</date>
                 <note/>
             </arrived>
             <started>
-                <date>2009-08</date>
+                <date/>
                 <note/>
             </started>
             <ended>

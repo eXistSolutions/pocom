@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>cuba</territory-id>
     <chiefs>
@@ -962,15 +962,6 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-06</last-modified-date>
         </chief>
-        <mission-note>
-            <text>The United States and Cuba resumed diplomatic relations on July 20, 2015, when
-                both countries elevated their respective Interests Sections to Embassy
-                status.</text>
-            <created-by>bottsjd</created-by>
-            <created-date>2019-08-07</created-date>
-            <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-08-07</last-modified-date>
-        </mission-note>
         <chief>
             <id>cu-2015-de-01</id>
             <person-id>de-laurentis-jeffrey</person-id>
@@ -981,11 +972,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2015-07-20</date>
                 <note/>
             </arrived>
             <started>
-                <date>2015-07-20</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -999,6 +990,15 @@
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
         </chief>
+        <mission-note>
+            <text>The United States and Cuba resumed diplomatic relations on July 20, 2015, when
+                both countries elevated their respective Interests Sections to Embassy
+                status.</text>
+            <created-by>bottsjd</created-by>
+            <created-date>2019-08-07</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2019-08-07</last-modified-date>
+        </mission-note>
         <chief>
             <id>cu-2018-teka-01</id>
             <person-id>tekach-mara-r</person-id>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>botswana</territory-id>
     <chiefs>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1966-09-30</date>
                 <note/>
             </arrived>
             <started>
-                <date>1966-09-30</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -39,11 +39,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1970-06</date>
                 <note/>
             </arrived>
             <started>
-                <date>1970-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>

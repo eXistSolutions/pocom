@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>albania</territory-id>
     <chiefs>
@@ -185,11 +185,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1991-10-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1991-10-01</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -503,7 +503,7 @@
     <other-nominees>
         <chief>
             <id>al-2018-kava-01</id>
-            <person-id>kavalec-katherine-a</person-id>
+            <person-id>kavalec-kathleen-ann</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>albania</contemporary-territory-id>
             <appointed>
@@ -522,8 +522,7 @@
                 <date/>
                 <note/>
             </ended>
-            <note>Nominated July 3, 2018; nominaion returned by the Senate on January 3,
-                2019.</note>
+            <note>Nominated July 3, 2018; nomination returned by the Senate on January 3, 2019.</note>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-29</created-date>
             <last-modified-by>bottsjd</last-modified-by>

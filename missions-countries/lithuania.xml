@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>lithuania</territory-id>
     <chiefs>
@@ -168,14 +168,6 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
-        <mission-note>
-            <text>The United States resumed diplomatic relations with Lithuania on September 2,
-                1991.</text>
-            <created-by>marrsaw</created-by>
-            <created-date>2015-11-06</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-11-06</last-modified-date>
-        </mission-note>
         <chief>
             <id>lt-1991-john-01</id>
             <person-id>johnson-darryl-norman</person-id>
@@ -186,11 +178,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1991-09-02</date>
                 <note/>
             </arrived>
             <started>
-                <date>1991-09-02</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -203,6 +195,14 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-11-06</last-modified-date>
         </chief>
+        <mission-note>
+            <text>The United States resumed diplomatic relations with Lithuania on September 2,
+                1991.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-11-06</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-11-06</last-modified-date>
+        </mission-note>
         <chief>
             <id>lt-1992-john-01</id>
             <person-id>johnson-darryl-norman</person-id>

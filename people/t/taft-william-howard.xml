@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <person>
     <id>taft-william-howard</id>
     <persName>
         <surname>Taft</surname>
         <forename>William Howard</forename>
-        <genName>III</genName>
+        <altname>William Howard Taft</altname>
     </persName>
-    <birth>1915</birth>
-    <death>1991</death>
-    <career-type>non-career</career-type>
+    <birth>1857</birth>
+    <death>1930</death>
+    <career-type/>
     <residence>
-        <state-id>ct</state-id>
+        <state-id/>
     </residence>
     <created-by>wicentowskijc</created-by>
     <created-date>2010-05-20</created-date>

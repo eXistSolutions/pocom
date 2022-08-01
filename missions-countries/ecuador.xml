@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>ecuador</territory-id>
     <chiefs>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1848-08-12</date>
                 <note/>
             </arrived>
             <started>
-                <date>1848-08-12</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -39,11 +39,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1849-11-19</date>
                 <note/>
             </arrived>
             <started>
-                <date>1849-11-19</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -67,11 +67,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1851-06-03</date>
                 <note/>
             </arrived>
             <started>
-                <date>1851-06-03</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -94,11 +94,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1853-12-27</date>
                 <note/>
             </arrived>
             <started>
-                <date>1853-12-27</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1100,11 +1100,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1992-02</date>
                 <note/>
             </arrived>
             <started>
-                <date>1992-02</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1271,8 +1271,7 @@
             </started>
             <ended>
                 <date>2011-04-06</date>
-                <note>Declared <hi rend="italic">persona non grata</hi> by the Government of
-                    Ecuador</note>
+                <note/>
             </ended>
             <note/>
             <created-by>wicentowskijc</created-by>

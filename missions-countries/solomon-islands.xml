@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>solomon-islands</territory-id>
     <chiefs>
@@ -410,5 +410,5 @@
             <last-modified-date>2020-01-28</last-modified-date>
         </chief>
     </chiefs>
-    <other-nominees/> 
+    <other-nominees/>
 </country-mission>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>sudan</territory-id>
     <chiefs>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1956-03-17</date>
                 <note/>
             </arrived>
             <started>
-                <date>1956-03-17</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -139,14 +139,6 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <mission-note>
-            <text>On August 14, 1967, the United States established an Interests Section in the
-                Dutch Embassy.</text>
-            <created-by>marrsaw</created-by>
-            <created-date>2016-01-29</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-29</last-modified-date>
-        </mission-note>
         <chief>
             <id>sd-1967-noel-01</id>
             <person-id>noel-cleo-allen</person-id>
@@ -174,6 +166,14 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
+        <mission-note>
+            <text>On August 14, 1967, the United States established an Interests Section in the
+                Dutch Embassy.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-29</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
+        </mission-note>
         <chief>
             <id>sd-1969-moor-01</id>
             <person-id>moore-george-curtis</person-id>
@@ -201,13 +201,6 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
-        <mission-note>
-            <text>Embassy Khartoum was re-established on July 25, 1972.</text>
-            <created-by>marrsaw</created-by>
-            <created-date>2016-01-29</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2016-01-29</last-modified-date>
-        </mission-note>
         <chief>
             <id>sd-1972-moor-01</id>
             <person-id>moore-george-curtis</person-id>
@@ -218,11 +211,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1972-07-25</date>
                 <note/>
             </arrived>
             <started>
-                <date>1972-07-25</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -235,6 +228,13 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-01-29</last-modified-date>
         </chief>
+        <mission-note>
+            <text>Embassy Khartoum was re-established on July 25, 1972.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2016-01-29</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2016-01-29</last-modified-date>
+        </mission-note>
         <chief>
             <id>sd-1972-noel-01</id>
             <person-id>noel-cleo-allen</person-id>
@@ -489,12 +489,12 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
                 <date>2002-05-23</date>
                 <note>Embassy Khartoum reopened</note>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
             </started>
             <ended>
                 <date>2003-08</date>
@@ -516,11 +516,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2003-08</date>
                 <note/>
             </arrived>
             <started>
-                <date>2003-08</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -543,11 +543,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2005-02</date>
                 <note/>
             </arrived>
             <started>
-                <date>2005-02</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -570,11 +570,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2005-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>2005-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -597,11 +597,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2005-10</date>
                 <note/>
             </arrived>
             <started>
-                <date>2005-10</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -624,11 +624,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2007-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>2007-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -651,11 +651,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2009-05</date>
                 <note/>
             </arrived>
             <started>
-                <date>2009-05</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -678,11 +678,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2011-09</date>
                 <note/>
             </arrived>
             <started>
-                <date>2011-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -705,11 +705,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2012-06</date>
                 <note/>
             </arrived>
             <started>
-                <date>2012-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -732,11 +732,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2014-05</date>
                 <note/>
             </arrived>
             <started>
-                <date>2014-05</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -759,11 +759,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2016-11-03</date>
                 <note/>
             </arrived>
             <started>
-                <date>2016-11-03</date>
+                <date/>
                 <note/>
             </started>
             <ended>

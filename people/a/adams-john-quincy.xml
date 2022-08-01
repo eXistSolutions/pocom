@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <person>
     <id>adams-john-quincy</id>
     <persName>
         <surname>Adams</surname>
         <forename>John Quincy</forename>
+        <altname>John Quincy Adams</altname>
         <altname>John Q. Adams</altname>
     </persName>
     <birth>1767</birth>

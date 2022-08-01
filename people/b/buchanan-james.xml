@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <person>
     <id>buchanan-james</id>
     <persName>
         <surname>Buchanan</surname>
         <forename>James</forename>
+        <altname>James Buchanan</altname>
     </persName>
     <birth>1791</birth>
     <death>1868</death>

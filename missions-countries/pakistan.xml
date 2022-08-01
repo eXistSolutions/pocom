@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>pakistan</territory-id>
     <chiefs>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1947-08-15</date>
                 <note/>
             </arrived>
             <started>
-                <date>1947-08-15</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -284,11 +284,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1972-05</date>
                 <note/>
             </arrived>
             <started>
-                <date>1972-05</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -899,6 +899,33 @@
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
+        </chief>
+        <chief>
+            <id>pk--todd-01</id>
+            <person-id>todd-william-edward</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>pakistan</contemporary-territory-id>
+            <appointed>
+                <date/>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note>Nomination of February 27, 2020 returned to the president on January 3, 2021.</note>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-02-19</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </other-nominees>
 </country-mission>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>ireland</territory-id>
     <chiefs>
@@ -220,7 +220,7 @@
         </chief>
         <chief>
             <id>ie-1953-taft-01</id>
-            <person-id>taft-william-howard</person-id>
+            <person-id>taft-william-howard-3</person-id>
             <role-title-id>ambassador-e-p</role-title-id>
             <contemporary-territory-id>ireland</contemporary-territory-id>
             <appointed>
@@ -768,11 +768,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2013-09</date>
                 <note/>
             </arrived>
             <started>
-                <date>2013-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -822,11 +822,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2017-01-20</date>
                 <note/>
             </arrived>
             <started>
-                <date>2017-01-20</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -857,14 +857,41 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-19</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-07-19</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-07-24</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
+        </chief>
+        <chief>
+            <id>ie-2021-cron-01</id>
+            <person-id>cronin-claire-d</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>ireland</contemporary-territory-id>
+            <appointed>
+                <date>2021-12-20</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2022-01-27</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </chiefs>
     <other-nominees>

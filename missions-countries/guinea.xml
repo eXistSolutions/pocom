@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>guinea</territory-id>
     <chiefs>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1959-02-13</date>
                 <note/>
             </arrived>
             <started>
-                <date>1959-02-13</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -309,11 +309,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1986-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1986-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -649,6 +649,33 @@
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-06-16</last-modified-date>
+        </chief>
+        <chief>
+            <id>gn-2021-fitr-01</id>
+            <person-id>fitrell-troy-damian</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>guinea</contemporary-territory-id>
+            <appointed>
+                <date>2021-12-20</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2022-01-27</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </chiefs>
     <other-nominees>

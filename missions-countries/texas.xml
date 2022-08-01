@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>texas</territory-id>
     <chiefs>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1837-10-23</date>
                 <note/>
             </arrived>
             <started>
-                <date>1837-10-23</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -39,11 +39,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1840-06-21</date>
                 <note/>
             </arrived>
             <started>
-                <date>1840-06-21</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -66,11 +66,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1841-07-21</date>
                 <note/>
             </arrived>
             <started>
-                <date>1841-07-21</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -94,11 +94,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1843-06-16</date>
                 <note/>
             </arrived>
             <started>
-                <date>1843-06-16</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -121,11 +121,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1844-08-02</date>
                 <note/>
             </arrived>
             <started>
-                <date>1844-08-02</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -148,11 +148,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1844-11-29</date>
                 <note/>
             </arrived>
             <started>
-                <date>1844-11-29</date>
+                <date/>
                 <note/>
             </started>
             <ended>

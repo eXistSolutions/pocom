@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>mozambique</territory-id>
     <chiefs>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1975-11-08</date>
                 <note/>
             </arrived>
             <started>
-                <date>1975-11-08</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -66,11 +66,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1980-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1980-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -201,11 +201,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1996-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1996-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -309,11 +309,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2006-06</date>
                 <note/>
             </arrived>
             <started>
-                <date>2006-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -336,11 +336,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2007-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>2007-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>

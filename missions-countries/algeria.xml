@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>algeria</territory-id>
     <chiefs>
@@ -75,11 +75,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1967-09</date>
                 <note/>
             </arrived>
             <started>
-                <date>1967-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -102,11 +102,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1969-12</date>
                 <note/>
             </arrived>
             <started>
-                <date>1969-12</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -119,13 +119,6 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-05-22</last-modified-date>
         </chief>
-        <mission-note>
-            <text>Embassy Algiers was re-established November 12, 1974.</text>
-            <created-by>marrsaw</created-by>
-            <created-date>2015-05-22</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-05-22</last-modified-date>
-        </mission-note>
         <chief>
             <id>dz-1974-park-01</id>
             <person-id>parker-richard-bordeaux</person-id>
@@ -136,11 +129,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1974-11-12</date>
                 <note/>
             </arrived>
             <started>
-                <date>1974-11-12</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -153,6 +146,13 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2016-12-30</last-modified-date>
         </chief>
+        <mission-note>
+            <text>Embassy Algiers was re-established November 12, 1974.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-05-22</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-05-22</last-modified-date>
+        </mission-note>
         <chief>
             <id>dz-1974-park-02</id>
             <person-id>parker-richard-bordeaux</person-id>
@@ -557,6 +557,33 @@
             <created-date>2019-05-16</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-09-10</last-modified-date>
+        </chief>
+        <chief>
+            <id>dz-2021-aubi-01</id>
+            <person-id>aubin-elizabeth-moore</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>algeria</contemporary-territory-id>
+            <appointed>
+                <date>2021-12-20</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2022-01-26</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </chiefs>
     <other-nominees/>

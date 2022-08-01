@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>burma</territory-id>
     <chiefs>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1947-09-19</date>
                 <note/>
             </arrived>
             <started>
-                <date>1947-09-19</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -446,11 +446,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1990-09</date>
                 <note/>
             </arrived>
             <started>
-                <date>1990-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -473,11 +473,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1994-09</date>
                 <note/>
             </arrived>
             <started>
-                <date>1994-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -500,11 +500,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1996-10</date>
                 <note/>
             </arrived>
             <started>
-                <date>1996-10</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -527,11 +527,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1999-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1999-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -554,11 +554,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2002-08</date>
                 <note/>
             </arrived>
             <started>
-                <date>2002-08</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -581,11 +581,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2005-08</date>
                 <note/>
             </arrived>
             <started>
-                <date>2005-08</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -608,11 +608,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2008-09</date>
                 <note/>
             </arrived>
             <started>
-                <date>2008-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -678,6 +678,33 @@
             <created-date>2016-08-24</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-05-18</last-modified-date>
+        </chief>
+        <chief>
+            <id>bu-2020-vajd-01</id>
+            <person-id>vajda-thomas-laszlo</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>burma</contemporary-territory-id>
+            <appointed>
+                <date>2020-12-01</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date>2021-01-11</date>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-01-14</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </chiefs>
     <other-nominees>

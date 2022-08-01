@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>venezuela</territory-id>
     <chiefs>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1835-06-30</date>
                 <note/>
             </arrived>
             <started>
-                <date>1835-06-30</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -66,11 +66,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1844-11-29</date>
                 <note/>
             </arrived>
             <started>
-                <date>1844-11-29</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -93,11 +93,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1845-08-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>1845-08-01</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -120,11 +120,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1850-01-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1850-01-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -148,11 +148,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1854-05-23</date>
                 <note/>
             </arrived>
             <started>
-                <date>1854-05-23</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -240,7 +240,7 @@
                 <date>1866-05-17</date>
                 <note>Left post on or soon after</note>
             </ended>
-            <note> Culver's presentation of credentials on October 7, 1862 was disavowed by the U.S.
+            <note>Culver's presentation of credentials on October 7, 1862 was disavowed by the U.S.
                 Government. On January 12, 1863, Culver informed the Government of Venezuela that
                 his status would revert to that existing before the presentation of his credentials.
                 Culver presented new credentials on October 15, 1864, after a change of
@@ -1360,11 +1360,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1989-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1989-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1576,11 +1576,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2010-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>2010-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1603,11 +1603,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2011-10</date>
                 <note/>
             </arrived>
             <started>
-                <date>2011-10</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1630,11 +1630,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2014-07-09</date>
                 <note/>
             </arrived>
             <started>
-                <date>2014-07-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1665,14 +1665,41 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2020-12-01</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-12-16</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-12-16</last-modified-date>
+            <last-modified-date>2020-12-16</last-modified-date>
+        </chief>
+        <chief>
+            <id>ve-2020-stor-01</id>
+            <person-id>story-james</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>venezuela</contemporary-territory-id>
+            <appointed>
+                <date>2020-12-01</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2020-12-16</created-date>
+            <last-modified-by>bottsjd</last-modified-by>
+            <last-modified-date>2020-12-16</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>

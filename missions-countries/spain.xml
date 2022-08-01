@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>spain</territory-id>
     <chiefs>
@@ -100,7 +100,7 @@
                 <note/>
             </arrived>
             <started>
-                <date/>
+                <date>1802-01-01</date>
                 <note>January-March 1802</note>
             </started>
             <ended>
@@ -124,11 +124,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1805-10</date>
                 <note/>
             </arrived>
             <started>
-                <date>1805-10</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -316,11 +316,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1840-11-05</date>
                 <note/>
             </arrived>
             <started>
-                <date>1840-11-05</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1328,11 +1328,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1946-03</date>
                 <note/>
             </arrived>
             <started>
-                <date>1946-03</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1355,11 +1355,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1947-06</date>
                 <note/>
             </arrived>
             <started>
-                <date>1947-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1984,14 +1984,41 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-23</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-23</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
+        </chief>
+        <chief>
+            <id>es-2021-reyn-01</id>
+            <person-id>reynoso-julissa</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>spain</contemporary-territory-id>
+            <appointed>
+                <date>2021-12-20</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2022-01-27</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </chiefs>
     <other-nominees>

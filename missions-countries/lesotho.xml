@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>lesotho</territory-id>
     <chiefs>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1966-10</date>
                 <note/>
             </arrived>
             <started>
-                <date>1966-10</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -39,11 +39,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1968-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1968-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -66,11 +66,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1969-10</date>
                 <note/>
             </arrived>
             <started>
-                <date>1969-10</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -283,11 +283,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1989-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1989-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -337,11 +337,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1993-04</date>
                 <note/>
             </arrived>
             <started>
-                <date>1993-04</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -526,11 +526,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2012-12</date>
                 <note/>
             </arrived>
             <started>
-                <date>2012-12</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -596,6 +596,33 @@
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2019-05-21</last-modified-date>
+        </chief>
+        <chief>
+            <id>ls-2021-brew-01</id>
+            <person-id>brewer-maria-e</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>lesotho</contemporary-territory-id>
+            <appointed>
+                <date>2021-12-20</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2022-01-27</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </chiefs>
     <other-nominees>

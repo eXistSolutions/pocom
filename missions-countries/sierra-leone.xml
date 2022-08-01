@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>sierra-leone</territory-id>
     <chiefs>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1961-04-27</date>
                 <note/>
             </arrived>
             <started>
-                <date>1961-04-27</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -472,11 +472,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2009-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2009-01</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -526,11 +526,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2013-10</date>
                 <note/>
             </arrived>
             <started>
-                <date>2013-10</date>
+                <date/>
                 <note/>
             </started>
             <ended>

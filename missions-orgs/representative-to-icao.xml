@@ -1,17 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <org-mission>
     <id>representative-to-icao</id>
     <category>international-organization</category>
     <names>
-        <singular>Representative of the U.S.A. on the Council of the International Civil Aviation
-            Organization (Montreal)</singular>
-        <plural>Representatives of the U.S.A. on the Council of the International Civil Aviation
-            Organization (Montreal)</plural>
+        <singular>Representative of the U.S.A. on the Council of the International Civil Aviation Organization (Montreal)</singular>
+        <plural>Representatives of the U.S.A. on the Council of the International Civil Aviation Organization (Montreal)</plural>
     </names>
     <description>
         <div>
-            <p>The Chief of Mission has the title of Representative of the U.S.A. on the Council of
-                the International Civil Aviation Organization, with the rank of Minister</p>
+            <p>The Chief of Mission has the title of Representative of the U.S.A. on the Council of the International Civil Aviation Organization, with the rank of Minister.</p>
         </div>
     </description>
     <chiefs>
@@ -61,8 +58,7 @@
                 <date>1953-08-01</date>
                 <note/>
             </ended>
-            <note>Commissioned during a recess of the Senate; recommissioned on December 13, 1949,
-                after confirmation.</note>
+            <note>Commissioned during a recess of the Senate; recommissioned on December 13, 1949, after confirmation.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
@@ -457,6 +453,32 @@
             <created-date>2020-08-03</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-08-03</last-modified-date>
+        </chief>
+        <chief>
+            <id>icao-2021-sull-01</id>
+            <person-id>sullenberger-c-b-iii</person-id>
+            <role-title-id>representative-to-icao</role-title-id>
+            <appointed>
+                <date>2021-12-07</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2022-01-26</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </chiefs>
     <other-appointees/>

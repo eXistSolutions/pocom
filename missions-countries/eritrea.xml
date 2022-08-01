@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>eritrea</territory-id>
     <chiefs>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1991-06</date>
                 <note/>
             </arrived>
             <started>
-                <date>1991-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -201,11 +201,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2010-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>2010-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -228,11 +228,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2012-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>2012-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -255,11 +255,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2014-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>2014-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -282,11 +282,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2016-09-23</date>
                 <note/>
             </arrived>
             <started>
-                <date>2016-09-23</date>
+                <date/>
                 <note/>
             </started>
             <ended>

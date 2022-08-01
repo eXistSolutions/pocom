@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>bulgaria</territory-id>
     <chiefs>
@@ -149,11 +149,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1919-03-18</date>
                 <note/>
             </arrived>
             <started>
-                <date>1919-03-18</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -313,12 +313,12 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
                 <date>1947-09-27</date>
                 <note>Legation Sofia reestablished on</note>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
             </started>
             <ended>
                 <date/>

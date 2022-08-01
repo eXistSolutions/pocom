@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>iran</territory-id>
     <chiefs>
@@ -477,11 +477,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1936-03</date>
                 <note/>
             </arrived>
             <started>
-                <date>1936-03</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -504,11 +504,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1937-06</date>
                 <note/>
             </arrived>
             <started>
-                <date>1937-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -926,6 +926,16 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2013-10-30</last-modified-date>
         </chief>
+        <mission-note>
+            <text>Laingen was serving as Chargé d’Affaires ad interim when the Embassy in Tehran was
+                seized on November 4, 1979. The United States severed diplomatic relations with Iran
+                on April 7, 1980. Laingen and the Embassy staff were released on January 20,
+                1981.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-10-22</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-22</last-modified-date>
+        </mission-note>
         <chief>
             <id>ir--lain-01</id>
             <person-id>laingen-lowell-bruce</person-id>
@@ -953,16 +963,6 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
-        <mission-note>
-            <text>Laingen was serving as Chargé d’Affaires ad interim when the Embassy in Tehran was
-                seized on November 4, 1979. The United States severed diplomatic relations with Iran
-                on April 7, 1980. Laingen and the Embassy staff were released on January 20,
-                1981.</text>
-            <created-by>marrsaw</created-by>
-            <created-date>2015-10-22</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-10-22</last-modified-date>
-        </mission-note>
     </chiefs>
     <other-nominees>
         <chief>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>switzerland</territory-id>
     <chiefs>
@@ -121,11 +121,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1876-09-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1876-09-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -148,11 +148,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1877-08-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1877-08-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -176,11 +176,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1881-08-25</date>
                 <note/>
             </arrived>
             <started>
-                <date>1881-08-25</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1401,14 +1401,41 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-17</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-13</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-23</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
+        </chief>
+        <chief>
+            <id>ch-2021-mill-01</id>
+            <person-id>miller-scott</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>switzerland</contemporary-territory-id>
+            <appointed>
+                <date>2021-12-20</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2022-01-27</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </chiefs>
     <other-nominees>

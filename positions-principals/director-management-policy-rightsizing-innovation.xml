@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <principal-position>
     <id>director-management-policy-rightsizing-innovation</id>
     <class>principal</class>
     <category>assistant-secretary-or-equiv</category>
     <names>
-        <singular>Director of the Office of Management Policy, Rightsizing, and
-            Innovation</singular>
+        <singular>Director of the Office of Management Policy, Rightsizing, and Innovation</singular>
         <plural>Directors of the Office of Management Policy, Rightsizing, and Innovation</plural>
     </names>
     <start/>

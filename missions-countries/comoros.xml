@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>comoros</territory-id>
     <chiefs>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1977-08-15</date>
                 <note/>
             </arrived>
             <started>
-                <date>1977-08-15</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -165,6 +165,13 @@
             <last-modified-by>wicentowskijc</last-modified-by>
             <last-modified-date>2010-05-20</last-modified-date>
         </chief>
+        <mission-note>
+            <text>Embassy Moroni was closed on September 30, 1993.</text>
+            <created-by>marrsaw</created-by>
+            <created-date>2015-10-29</created-date>
+            <last-modified-by>marrsaw</last-modified-by>
+            <last-modified-date>2015-10-29</last-modified-date>
+        </mission-note>
         <chief>
             <id>km-1993-alex-01</id>
             <person-id>alexander-leslie-m</person-id>
@@ -192,13 +199,6 @@
             <last-modified-by>marrsaw</last-modified-by>
             <last-modified-date>2015-10-29</last-modified-date>
         </chief>
-        <mission-note>
-            <text>Embassy Moroni was closed on September 30, 1993.</text>
-            <created-by>marrsaw</created-by>
-            <created-date>2015-10-29</created-date>
-            <last-modified-by>marrsaw</last-modified-by>
-            <last-modified-date>2015-10-29</last-modified-date>
-        </mission-note>
         <chief>
             <id>km-1996-geis-01</id>
             <person-id>geisel-harold-w</person-id>
@@ -290,11 +290,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2005-06</date>
                 <note/>
             </arrived>
             <started>
-                <date>2005-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -344,11 +344,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2010-06</date>
                 <note/>
             </arrived>
             <started>
-                <date>2010-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -371,11 +371,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2011-09</date>
                 <note/>
             </arrived>
             <started>
-                <date>2011-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>

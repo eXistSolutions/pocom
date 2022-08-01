@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>sweden</territory-id>
     <chiefs>
@@ -70,11 +70,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1826-10-28</date>
                 <note/>
             </arrived>
             <started>
-                <date>1826-10-28</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -97,11 +97,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1830-08-16</date>
                 <note/>
             </arrived>
             <started>
-                <date>1830-08-16</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -124,11 +124,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1842-10-04</date>
                 <note/>
             </arrived>
             <started>
-                <date>1842-10-04</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -151,11 +151,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1845-10-11</date>
                 <note/>
             </arrived>
             <started>
-                <date>1845-10-11</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -180,11 +180,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1850-04-22</date>
                 <note/>
             </arrived>
             <started>
-                <date>1850-04-22</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1056,11 +1056,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1972-12</date>
                 <note/>
             </arrived>
             <started>
-                <date>1972-12</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1164,11 +1164,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1980-09</date>
                 <note/>
             </arrived>
             <started>
-                <date>1980-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1488,11 +1488,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2017-01-20</date>
                 <note/>
             </arrived>
             <started>
-                <date>2017-01-20</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1523,14 +1523,41 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-20</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-11-05</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-11-05</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
+        </chief>
+        <chief>
+            <id>se-2021-rama-01</id>
+            <person-id>ramanathan-erik-d</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>sweden</contemporary-territory-id>
+            <appointed>
+                <date>2021-12-20</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2022-01-27</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </chiefs>
     <other-nominees>

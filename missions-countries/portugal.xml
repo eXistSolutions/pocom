@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>portugal</territory-id>
     <chiefs>
@@ -120,11 +120,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1820-06</date>
                 <note/>
             </arrived>
             <started>
-                <date>1820-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -175,11 +175,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1825-06-24</date>
                 <note/>
             </arrived>
             <started>
-                <date>1825-06-24</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -203,11 +203,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1835-07-25</date>
                 <note/>
             </arrived>
             <started>
-                <date>1835-07-25</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -230,11 +230,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1841-12-28</date>
                 <note/>
             </arrived>
             <started>
-                <date>1841-12-28</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -257,11 +257,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1844-02-24</date>
                 <note/>
             </arrived>
             <started>
-                <date>1844-02-24</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -285,11 +285,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1847-11-04</date>
                 <note/>
             </arrived>
             <started>
-                <date>1847-11-04</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -312,11 +312,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1849-10-18</date>
                 <note/>
             </arrived>
             <started>
-                <date>1849-10-18</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -340,11 +340,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1851-06-17</date>
                 <note/>
             </arrived>
             <started>
-                <date>1851-06-17</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -367,11 +367,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1854-06-16</date>
                 <note/>
             </arrived>
             <started>
-                <date>1854-06-16</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -557,11 +557,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1876-11-15</date>
                 <note/>
             </arrived>
             <started>
-                <date>1876-11-15</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1643,11 +1643,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1993-09</date>
                 <note/>
             </arrived>
             <started>
-                <date>1993-09</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1867,14 +1867,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-19</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-22</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-22</last-modified-date>
+            <last-modified-date>2021-02-05</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>

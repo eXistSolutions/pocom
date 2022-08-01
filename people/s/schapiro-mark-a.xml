@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <person>
     <id>schapiro-mark-a</id>
     <persName>
         <surname>Schapiro</surname>
         <forename>Mark A.</forename>
     </persName>
-    <birth/>
+    <birth>1972</birth>
     <death/>
     <career-type>career</career-type>
     <residence>
@@ -14,5 +14,5 @@
     <created-by>bottsjd</created-by>
     <created-date>2019-12-16</created-date>
     <last-modified-by>bottsjd</last-modified-by>
-    <last-modified-date>2019-12-16</last-modified-date>
+    <last-modified-date>2021-04-07</last-modified-date>
 </person>

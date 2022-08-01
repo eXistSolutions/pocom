@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>belarus</territory-id>
     <chiefs>
@@ -174,11 +174,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2008-03</date>
                 <note/>
             </arrived>
             <started>
-                <date>2008-03</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -201,11 +201,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2009-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>2009-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -228,11 +228,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2013-06</date>
                 <note/>
             </arrived>
             <started>
-                <date>2013-06</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -255,11 +255,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2014-06-30</date>
                 <note/>
             </arrived>
             <started>
-                <date>2014-06-30</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -282,11 +282,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2016-08-22</date>
                 <note/>
             </arrived>
             <started>
-                <date>2016-08-22</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -325,6 +325,33 @@
             <created-date>2019-12-16</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-07-20</last-modified-date>
+        </chief>
+        <chief>
+            <id>by-2020-fish-01</id>
+            <person-id>fisher-julie-d</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>belarus</contemporary-territory-id>
+            <appointed>
+                <date>2020-12-22</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2021-01-14</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </chiefs>
     <other-nominees/>

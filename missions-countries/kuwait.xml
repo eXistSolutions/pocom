@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>kuwait</territory-id>
     <chiefs>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1961-10-18</date>
                 <note/>
             </arrived>
             <started>
-                <date>1961-10-18</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -203,11 +203,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1983-08</date>
                 <note/>
             </arrived>
             <started>
-                <date>1983-08</date>
+                <date/>
                 <note/>
             </started>
             <ended>

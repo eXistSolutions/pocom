@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>brazil</territory-id>
     <chiefs>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1825-10-29</date>
                 <note/>
             </arrived>
             <started>
-                <date>1825-10-29</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -39,11 +39,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1828-06-25</date>
                 <note/>
             </arrived>
             <started>
-                <date>1828-06-25</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -67,11 +67,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1831-02-18</date>
                 <note/>
             </arrived>
             <started>
-                <date>1831-02-18</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -94,11 +94,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1835-01-07</date>
                 <note/>
             </arrived>
             <started>
-                <date>1835-01-07</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1316,11 +1316,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2001-02</date>
                 <note/>
             </arrived>
             <started>
-                <date>2001-02</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1397,11 +1397,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2005-11</date>
                 <note/>
             </arrived>
             <started>
-                <date>2005-11</date>
+                <date/>
                 <note/>
             </started>
             <ended>

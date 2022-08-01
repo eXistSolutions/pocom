@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>bahrain</territory-id>
     <chiefs>
@@ -12,12 +12,12 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
                 <date>1971-09-21</date>
                 <note>Embassy Manama opened</note>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
             </started>
             <ended>
                 <date/>
@@ -255,11 +255,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1993-03</date>
                 <note/>
             </arrived>
             <started>
-                <date>1993-03</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -487,6 +487,33 @@
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
             <last-modified-date>2020-07-15</last-modified-date>
+        </chief>
+        <chief>
+            <id>bh-2021-bond-01</id>
+            <person-id>bondy-steven-c</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>bahrain</contemporary-territory-id>
+            <appointed>
+                <date>2021-12-20</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2022-01-27</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </chiefs>
     <other-nominees/>

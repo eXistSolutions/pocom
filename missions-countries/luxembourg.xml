@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>luxembourg</territory-id>
     <chiefs>
@@ -482,12 +482,12 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
-                <note/>
-            </arrived>
-            <started>
                 <date>1944-09-23</date>
                 <note>Legation Luxembourg reestablished on</note>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
             </started>
             <ended>
                 <date/>
@@ -1053,11 +1053,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2001-01</date>
                 <note/>
             </arrived>
             <started>
-                <date>2001-01</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -1223,14 +1223,41 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-21</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-05-21</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-05-21</last-modified-date>
+            <last-modified-date>2021-02-17</last-modified-date>
+        </chief>
+        <chief>
+            <id>lu-2021-barr-01</id>
+            <person-id>barrett-thomas</person-id>
+            <role-title-id>ambassador-e-p</role-title-id>
+            <contemporary-territory-id>luxembourg</contemporary-territory-id>
+            <appointed>
+                <date>2021-12-17</date>
+                <note/>
+            </appointed>
+            <arrived>
+                <date/>
+                <note/>
+            </arrived>
+            <started>
+                <date/>
+                <note/>
+            </started>
+            <ended>
+                <date/>
+                <note/>
+            </ended>
+            <note/>
+            <created-by>bottsjd</created-by>
+            <created-date>2022-01-27</created-date>
+            <last-modified-by/>
+            <last-modified-date/>
         </chief>
     </chiefs>
     <other-nominees>

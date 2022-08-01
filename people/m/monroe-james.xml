@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <person>
     <id>monroe-james</id>
     <persName>
         <surname>Monroe</surname>
         <forename>James</forename>
+        <altname>James Monroe</altname>
     </persName>
     <birth>1758</birth>
     <death>1831</death>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <country-mission>
     <territory-id>jamaica</territory-id>
     <chiefs>
@@ -12,11 +12,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1962-08-16</date>
                 <note/>
             </arrived>
             <started>
-                <date>1962-08-16</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -311,11 +311,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>1993-03</date>
                 <note/>
             </arrived>
             <started>
-                <date>1993-03</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -473,11 +473,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2013-11</date>
                 <note/>
             </arrived>
             <started>
-                <date>2013-11</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -527,11 +527,11 @@
                 <note/>
             </appointed>
             <arrived>
-                <date/>
+                <date>2017-06-30</date>
                 <note/>
             </arrived>
             <started>
-                <date>2017-06-30</date>
+                <date/>
                 <note/>
             </started>
             <ended>
@@ -562,14 +562,14 @@
                 <note/>
             </started>
             <ended>
-                <date/>
+                <date>2021-01-08</date>
                 <note/>
             </ended>
             <note/>
             <created-by>bottsjd</created-by>
             <created-date>2019-08-05</created-date>
             <last-modified-by>bottsjd</last-modified-by>
-            <last-modified-date>2019-09-12</last-modified-date>
+            <last-modified-date>2021-01-14</last-modified-date>
         </chief>
     </chiefs>
     <other-nominees>
@@ -594,8 +594,7 @@
                 <date/>
                 <note/>
             </ended>
-            <note>On July 29, 1993, President Clinton announced his intention to nominate Chisholm.
-                The nomination was withdrawn on October 13, 1993.</note>
+            <note>On July 29, 1993, President Clinton announced his intention to nominate Chisholm. The nomination was withdrawn on October 13, 1993.</note>
             <created-by>wicentowskijc</created-by>
             <created-date>2010-05-20</created-date>
             <last-modified-by>marrsaw</last-modified-by>
